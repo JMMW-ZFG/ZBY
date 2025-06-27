@@ -319,10 +319,21 @@ https://s1.m16tv.cfd/aktv/CH-5/AKTV.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.fanmingming.cn/tv/CETV1.png",CETV1
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225652
+http://i.880824.xyz:35455/mgtv/923287154.m3u8
+http://ychz.myds.me:35455/mgtv/923287154.m3u8
+http://jilin-02.tosunsoft.com:35455/mgtv/923287154.m3u8
+http://alist.xicp.fun:35455/mgtv/923287154.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.fanmingming.cn/tv/CETV2.png",CETV2
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226425
+http://ychz.myds.me:35455/mgtv/923287211.m3u8
+http://i.880824.xyz:35455/mgtv/923287211.m3u8
+http://jilin-02.tosunsoft.com:35455/mgtv/923287211.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.fanmingming.cn/tv/CETV4.png",CETV4
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225783
+http://i.880824.xyz:35455/mgtv/923287339.m3u8
+http://ychz.myds.me:35455/mgtv/923287339.m3u8
+https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+http://alist.xicp.fun:35455/mgtv/923287339.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.fanmingming.cn/tv/广东珠江.png",广东珠江
 http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 http://cdn2.132.us.kg/live/gdzj/stream.m3u8
